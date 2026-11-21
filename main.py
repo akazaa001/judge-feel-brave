@@ -10,8 +10,8 @@ import os
 ENTRY = (
     "You have answered a thousand questions, and this one asks nothing of "
     "you. The lamp is still warm. The kettle has not boiled. A clock ticks, "
-    "unhurried, keeping time for you. When you lift your head, the next "
-    "question will be there \u2014 and so will you."
+    "unhurried, keeping time for you. Outside, evening is settling like dust "
+    "on a sill, and it is in no hurry at all."
 )
 
 
